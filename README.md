@@ -38,3 +38,9 @@ With the sanity project in place, now we can do the following:
    bun tsx index.ts
    ```
    You'll see we have the console we expect
+
+
+## Video demo
+
+https://github.com/devraul/bun-sanity-process-hang/assets/12464600/1f8a085d-393c-4d7d-8e3d-4b25dc941f1b
+
